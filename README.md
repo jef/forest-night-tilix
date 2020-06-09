@@ -9,6 +9,6 @@ Download [`forest-night.json`](https://raw.githubusercontent.com/jef/forest-nigh
 - Open Tilix and go to **Preferences** > **Profiles** > **Color...**
 - Select `forest-night` from **Color scheme** drop down
 
-### Credits
+## Credits
 
 Based off [sainnhe's Forest Night](https://github.com/sainnhe/forest-night).
